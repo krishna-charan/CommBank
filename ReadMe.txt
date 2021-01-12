@@ -3,6 +3,7 @@
 3. CommBank_Register.featurecs file consists of specflow scenario
 4. RegisterPageObjects.cs consists of all the UI elements and methods. 
 5. Reusable Functions consists of all the shared Functions which we can use repetedly 
+6. Before Execution please update PageObject Variable "C:\\CommBizRegister-master\\TestResults\\"
 
 
 Loading plugin C:\CommBizRegister-master\CommBank\bin\Debug\net472\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
