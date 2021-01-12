@@ -6,13 +6,7 @@ using OpenQA.Selenium.Support.Extensions;
 namespace CommBank.Objects
 {
 
-    //public interface IPageObjects
-    //{
-    //    void ClickRegister();
-    //    void CustomRegistration();
-    //    void InformationPage();
-    //    void RegisterationInfo();
-    //}
+   
     public class PageObject : Shared_Functions
     {
 
